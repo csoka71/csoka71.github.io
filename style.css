@@ -1,0 +1,103 @@
+.header {
+    width: 1200px;
+    height: 120px;
+    margin: 20px 20px 20px 0px;
+    background: green;
+    border: 2px solid black;
+    display: flex;
+    text-align: center;
+    top: 0;
+    margin-top: 0;
+  }
+  .gomb {
+    font-family:'Abril Fatface', cursive;
+    color: #222;
+    font-size: 40px;
+    margin: 35px;
+  }
+  
+  img {
+    width: 600px;
+    height: 600px;
+  }
+  
+  main {
+    width: 1200px;
+    height: 1200px;
+    margin-left: 0px;
+    margin-right: 40px;
+    display: flex;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    border: 2px solid black;
+    background: pink;
+  }
+  
+  .Anakin {
+    height: 400px;
+    width: 600px;
+   
+    position: relative;
+    font-size: 25px;
+    font-family:'Abril Fatface', cursive;
+    color: #222 grey;
+    text-align: center;
+  }
+  .a {
+    position: absolute;
+    left: 300px;
+    top: 600px;
+    font-size: 40px;
+  }
+  .b {
+    position: absolute;
+    left: 300px;
+    top: 650px;
+    font-size: 80px;
+  }
+  li {
+    list-style: square;}
+  
+  .quote::before {
+    content: " \201C";
+    font-size: 140px}
+  
+  .quote {
+    width: 300px;
+    height: 800px;
+    background: lightblue;
+    padding: 30px;
+    font-family:'Abril Fatface';
+    color: darkblue;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    line-height: 2;
+  }
+  section {
+    width: 600px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 40px;
+    line-height: 170%;
+  
+  }
+  #vonal{
+    border-top: 4px solid black}
+  h1 { 
+    font-size: 40px;
+    font-family: 'Merriweather', serif;}
+  h2{ 
+    font-size: 30px;
+    font-family: 'Merriweather', serif;}
+  h3 {
+    font-family: 'Merriweather', italic;
+    font-size: 15px;
+  }
+  body{
+    margin: 0 auto;
+    width: 1200px;
+    height: 1200px;
+  }
+  
